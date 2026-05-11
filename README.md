@@ -1,3 +1,12 @@
+# Next.js app to demonstrate an issue I'm seeing with qlty.sh
+
+I will add a link to the qlty.sh ticket once I've created it.
+
+The default next.js README is below.
+
+---------------------
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
