@@ -1,6 +1,6 @@
 # Next.js app to demonstrate an issue I'm seeing with qlty.sh
 
-I will add a link to the qlty.sh ticket once I've created it.
+See qlty.sh ticket <https://github.com/qltysh/qlty/issues/2793>.
 
 The default next.js README is below.
 
